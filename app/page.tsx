@@ -6,7 +6,9 @@ export default function Home() {
     <>
   <Link href="/Responding-to-events">Events</Link>   
   <br />
-  <Link href="/State-as-snapshot">State</Link>
+  <Link href="/State-a-components-memory">State</Link>
+  <br />
+  <Link href="/State-as-snapshot">Snap Shot</Link>
   
      
 
