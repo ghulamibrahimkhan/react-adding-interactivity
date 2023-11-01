@@ -11,6 +11,8 @@ export default function Home() {
       <Link href="/State-as-snapshot">Snap Shot</Link>
       <br />
       <Link href="/Queueing-a-series-of-update">Queueing</Link>
+      <br />
+      <Link href="/Updating-objects-in-state">Updating Objects</Link>
     </>
   )
 }
